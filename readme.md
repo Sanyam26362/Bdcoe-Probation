@@ -4,7 +4,6 @@ Welcome to the hands-on session! In this exercise, you will practice the standar
 
 ---
 
-## ⚡ Quick Intro: What is Big Data?
 
 Big Data refers to massive, complex datasets that traditional data processing software can't handle efficiently. It is defined by the **5 V's**:
 
@@ -14,13 +13,13 @@ Big Data refers to massive, complex datasets that traditional data processing so
 * **Veracity:** The accuracy, trustworthiness, and quality of the incoming data.
 * **Value:** Extracting meaningful, actionable insights from raw data.
 
----
 
-## 🎯 Your Task
+
+
 
 Your goal is to edit this file, add your name and a Big Data technology/concept you want to explore, and submit a **Pull Request**.
 
-### Step-by-Step Instructions:
+
 
 1. **Fork** this repository to your GitHub account.
 2. **Clone** your fork to your laptop:
